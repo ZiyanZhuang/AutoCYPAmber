@@ -80,4 +80,4 @@ source "$AMBER_SH_PATH"
 - `skill_build_complex_and_solvate()` now resolves packaged heme parameter files from `acypa/data/heme_params/`, so editable installs and packaged installs use the same data path.
 - `run_wsl()` now honors `AMBER_SH_PATH` even if it is provided as a Windows path.
 - `run_wsl()` prefers `ACYPA_WSL_DISTRO`, then `WSL_DISTRO_NAME`, then falls back to `Ubuntu-24.04`.
-- For Blackwell GPUs, see [wiki/Deployment-Guide.md](C:/Users/eos/Desktop/101/AutoCYPAmber-main/wiki/Deployment-Guide.md) for the single-architecture `sm_120` recommendation.
+- For Blackwell GPUs, see [wiki/Deployment-Guide.md](Deployment-Guide.md) for the single-architecture `sm_120` recommendation.

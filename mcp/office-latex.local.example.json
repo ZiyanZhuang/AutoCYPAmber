@@ -3,9 +3,9 @@
     "office-latex-local": {
       "command": "python",
       "args": [
-        "C:/Users/eos/Desktop/101/AutoCYPAmber-main/scripts/mcp/office_latex_mcp_server.py"
+        "/path/to/AutoCYPAmber/scripts/mcp/office_latex_mcp_server.py"
       ],
-      "cwd": "C:/Users/eos/Desktop/101/AutoCYPAmber-main"
+      "cwd": "/path/to/AutoCYPAmber"
     }
   }
 }
